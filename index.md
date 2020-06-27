@@ -19,6 +19,8 @@ The list is not exhaustive and should be updated continuously. I categorized all
 -- Learn: ressources on DeFi
 -- Pooling: making money by providing liquidity.
 
+If you have any remarks: feel free to open an issue on Github.
+
 You are able to sort and filter the following cards:
 
 
