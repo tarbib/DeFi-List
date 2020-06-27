@@ -4,20 +4,20 @@ I have been following (and enjoying!) the DeFi space for a little while now and 
 
 The list is not exhaustive and should be updated continuously. I categorized all the services in these categories :
 
--- Data aggregation:
--- Aggregated DEX: helps you to get the best trades while aggretating information from different DEX (Decentralized Exchanges)
--- Dashboard: gives you an overview of your assets
--- DEX: Decentralized Exchanges
--- Off-ramp: Let you go from crypto to fiat.
--- On-ramp: fiat to crypto.
--- Prices aggregator
--- Wallet: Ethereum Wallet
--- Earn: Let you earn some interest or fees
--- Dev tools: services for developpers to build dApps
--- Insurance: Decentralized insurance for your investments.
--- No code: building dApps without coding skills
--- Learn: ressources on DeFi
--- Pooling: making money by providing liquidity.
+Data aggregation:
+Aggregated DEX: helps you to get the best trades while aggretating information from different DEX (Decentralized Exchanges)
+Dashboard: gives you an overview of your assets
+DEX: Decentralized Exchanges
+Off-ramp: Let you go from crypto to fiat.
+On-ramp: fiat to crypto.
+Prices aggregator
+Wallet: Ethereum Wallet
+Earn: Let you earn some interest or fees
+Dev tools: services for developpers to build dApps
+Insurance: Decentralized insurance for your investments.
+No code: building dApps without coding skills
+Learn: ressources on DeFi
+Pooling: making money by providing liquidity.
 
 If you have any remarks: feel free to open an issue on Github.
 
