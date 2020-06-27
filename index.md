@@ -24,4 +24,4 @@ The list is not exhaustive and should be updated continuously. I categorized all
 
 I have been following (and enjoying!) the DeFi space for a little while now and accumulated many websites in my bookmarks folder. While being locked-down during few weeks, I decided to rearrange it and thought : "Would not it be useful to others?". With limited coding skills I gave a try to Github Pages and Airtable and the result is what you are hopefully seeing right now (If you use extensions to block trackers you may need to allow airtable).
 
-_If you have any remarks: feel free to open an issue on Github._
+_If you have any remarks: feel free to contact me hi (at) defilist.xyz, ping me on Twitter [@tarbib](twitter.com/tarbib) or open an issue on Github._
