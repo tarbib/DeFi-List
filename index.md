@@ -20,7 +20,7 @@ The list is not exhaustive and should be updated continuously. I categorized all
 - Pooling: making money by providing liquidity.
 
 
-If you have any remarks: feel free to open an issue on Github.
+_If you have any remarks: feel free to open an issue on Github._
 
 You are able to sort and filter the following cards:
 
